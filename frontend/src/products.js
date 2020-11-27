@@ -34,7 +34,7 @@ const products = [
       brand: 'Masala Art',
       category: 'Dals',
       price: 160,
-      countInStock: 5,
+      countInStock: 0,
       rating: 5,
       numReviews: 12,
     },
