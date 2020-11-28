@@ -2,7 +2,7 @@ const products = [
     {
       _id: '1',
       name: 'Chicken Banjara',
-      image: '/images/Chicken Banjara.jpg',
+      image:'/images/Chicken_Banjara.jpg',
       description:
         'Tandoor Special',
       brand: 'Masala Art',
@@ -15,7 +15,7 @@ const products = [
     {
       _id: '2',
       name: 'Chicken Tikka',
-      image: '/images/Chicken Tikka.jpg',
+      image: '/images/Chicken_Tikka.jpg',
       description:
         'Spicy Tandoor Special',
       brand: 'Masala Art',
@@ -28,7 +28,7 @@ const products = [
     {
       _id: '3',
       name: 'Dal Makhani',
-      image: '/images/Dal Makhani.jpg',
+      image: '/images/Dal_Makhani.jpg',
       description:
         'Bestseller',
       brand: 'Masala Art',
@@ -41,7 +41,7 @@ const products = [
     {
       _id: '4',
       name: 'Green Peas Pulao',
-      image: '/images/Green Peas Pulao.jpg',
+      image: '/images/Green_Peas_Pulao.jpg',
       description:
         'Veg Pulao Special',
       brand: 'Masala Art',
@@ -54,7 +54,7 @@ const products = [
     {
       _id: '5',
       name: 'Veg Bhuna',
-      image: '/images/Veg Bhuna.jpg',
+      image: '/images/Veg_Bhuna.jpg',
       description:
         'Bhuna Veg Special',
       brand: 'Masala Art',
