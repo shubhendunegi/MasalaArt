@@ -1,6 +1,5 @@
 const products = [
     {
-      _id: '1',
       name: 'Chicken Banjara',
       image:'/images/Chicken_Banjara.jpg',
       description:
@@ -13,7 +12,6 @@ const products = [
       numReviews: 12,
     },
     {
-      _id: '2',
       name: 'Chicken Tikka',
       image: '/images/Chicken_Tikka.jpg',
       description:
@@ -26,7 +24,6 @@ const products = [
       numReviews: 8,
     },
     {
-      _id: '3',
       name: 'Dal Makhani',
       image: '/images/Dal_Makhani.jpg',
       description:
@@ -39,7 +36,6 @@ const products = [
       numReviews: 12,
     },
     {
-      _id: '4',
       name: 'Green Peas Pulao',
       image: '/images/Green_Peas_Pulao.jpg',
       description:
@@ -52,7 +48,6 @@ const products = [
       numReviews: 12,
     },
     {
-      _id: '5',
       name: 'Veg Bhuna',
       image: '/images/Veg_Bhuna.jpg',
       description:
